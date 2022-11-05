@@ -1,0 +1,12 @@
+.movieItem > a {
+  margin: 5px;
+  padding: 10px;
+  background-color: #eee;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #000;
+}
+
+.movieItem > a:hover {
+  background-color: #ddd;
+}
