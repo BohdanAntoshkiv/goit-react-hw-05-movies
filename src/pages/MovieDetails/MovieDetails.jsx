@@ -69,7 +69,7 @@ export default function MovieDetails() {
                 <NavLink className="navLink" to="cast">
                     Cast
                 </NavLink>
-                <NavLink className="navLink" to="/reviews">
+                <NavLink className="navLink" to="reviews">
                     Reviews
                 </NavLink>
                 {/* <StyledLink to="cast">Cast</StyledLink>

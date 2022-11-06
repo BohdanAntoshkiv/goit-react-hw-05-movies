@@ -19,7 +19,7 @@ export default function Cast() {
         fetchMovies();
     }, [movieId]);
     return (
-        <ul className="movieList">
+        <ul className="actorList">
             {cast.length !== 0 &&
                 cast.map(({ id, name, character, profile_path }) => {
                     return (
