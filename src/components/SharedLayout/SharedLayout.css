@@ -29,10 +29,10 @@
 }
 
 .navLink:hover {
-    background-color: #ddd;
+    background-color: rgb(245, 255, 166);
 }
 
 .navLink:active {
-    color: white;
+    color: rgb(48, 145, 66);
     background-color: #bbb;
 }

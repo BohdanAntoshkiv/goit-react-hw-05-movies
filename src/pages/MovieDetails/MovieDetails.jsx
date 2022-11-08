@@ -37,7 +37,7 @@ export default function MovieDetails() {
     return (
         <main className="containerMain">
             <button
-                className="homeButton"
+                className="homeBtn"
                 onClick={() => {
                     navigate(location.state?.from ?? '/home');
                 }}
